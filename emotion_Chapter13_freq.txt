@@ -1,0 +1,10 @@
+Positive      471  13,92%
+Negative      632  18,68%
+Anger         263  7,77%
+Anticipation  241  7,12%
+Disgust       164  4,84%
+Fear          303  8,95%
+Joy           169  4,99%
+Sadness       301  8,89%
+Surprise      128  3,78%
+Trust         242  7,15%
